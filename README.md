@@ -40,7 +40,7 @@ I enjoy leveraging data to solve problems, uncover insights, and support strateg
 ## 📜 Courses & Certifications  
 - **Professional Data Analyst** - Egypt Digital Pioneers Initiative  
 - **Business Intelligence Analyst** - Maven Analytics  
-- **Power BI ** - 365 Data Science  
+- **Power BI** - 365 Data Science  
 
 ---
 
